@@ -99,7 +99,13 @@ Ele:
 * Servidor **Dell PowerEdge R720**
 
 ---
+---
 
+# Vamos ao trabalho!!
+
+* Todas as etapas para execução estão no diretório Runbook
+
+---
 # Licença
 
 Uso livre para ambientes de infraestrutura e administração de sistemas.
